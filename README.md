@@ -8,20 +8,50 @@
 
 ## 목차
 
-1. [**서비스 소개**](#1)
-2. [**기술 스택**](#2)
-3. [**시스템 아키텍처**](#3)
-4. [**주요기능 및 데모영상**](#4)
-5. [**UCC 보러가기**](#5)
-6. [**협업 관리**](#6)
-7. [**개발 멤버 소개**](#7)
+1. [**개발 멤버 소개**](#1)
+2. [**서비스 소개**](#2)
+3. [**기술 스택**](#3)
+4. [**시스템 아키텍처**](#4)
+5. [**주요기능 및 데모영상**](#5)
+6. [**UCC 보러가기**](#6)
+7. [**협업 관리**](#7)
 8. [**프로젝트 기간**](#8)
 9. [**프로젝트 관련 문서**](#9)
 
-<br/>
-
+<br/> <br/>
 
 <div id="1"></div>
+
+## 👪 개발 멤버 소개 
+<table>
+    <tr>
+        <td height="140px" align="center"> <a href="https://github.com/Jubi-in">
+            <img src="https://avatars.githubusercontent.com/Jubi-in" width="140px" /> <br><br> 👑 인주비 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/unilion">
+            <img src="https://avatars.githubusercontent.com/unilion" width="140px" /> <br><br> 🙂 장준범 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/jejinmyeong">
+            <img src="https://avatars.githubusercontent.com/jejinmyeong" width="140px" /> <br><br> 😆 제진명 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/kibum414">
+            <img src="https://avatars.githubusercontent.com/kibum414" width="140px" /> <br><br> 😁 박기범 <br>(Back-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/changhyuns">
+            <img src="https://avatars.githubusercontent.com/changhyuns" width="140px" /> <br><br> 🙄 손창현 <br>(Back-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="https://github.com/dayaeLee777">
+            <img src="https://avatars.githubusercontent.com/dayaeLee777" width="140px" /> <br><br> 😶 이다예 <br>(Back-End) </a> <br></td>
+    </tr>
+    <tr>
+        <td align="center">UI/UX<br/>React<br/>WebRTC<br/>WebSocket</td>
+        <td align="center">UI/UX<br/>React</td>
+        <td align="center">UI/UX<br/>React</td>
+        <td align="center">REST API<br/>WebRTC<br/>WebSocket</td>
+        <td align="center">REST API<br/>CI/CD<br/>Infra<br/></td>
+        <td align="center">REST API<br/>Database<br/>S3<br/></td>
+    </tr>
+</table>
+
+<br />
+
+
+<div id="2"></div>
 
 ## 💡 서비스 소개
 
@@ -37,7 +67,7 @@
 
 <br/>
 
-<div id="2"></div>
+<div id="3"></div>
 
 ## 🛠️ 기술 스택
 
@@ -89,7 +119,7 @@
 
 <br />
 
-<div id="3"></div>
+<div id="4"></div>
 
 ## 🗂️ 시스템 아키텍처
 
@@ -108,7 +138,7 @@
 
 <br />
 
-<div id="4"></div>
+<div id="5"></div>
 
 ## 🖥️ 주요기능
 
@@ -156,13 +186,13 @@
 
 <br/>
 
-<div id="5"></div>
+<div id="6"></div>
 
 ## 🎥 [UCC 보러가기](https://drawingdream-bucket.s3.ap-northeast-2.amazonaws.com/UCC+%EC%B5%9C%EC%A2%85%EB%B3%B8.mp4) 
 
 <br />
 
-<div id="6"></div>
+<div id="7"></div>
 
 ## 👥 협업 관리 
 
@@ -176,35 +206,6 @@
 
 <br />
 
-<div id="7"></div>
-
-## 👪 개발 멤버 소개 
-<table>
-    <tr>
-        <td height="140px" align="center"> <a href="https://github.com/Jubi-in">
-            <img src="https://avatars.githubusercontent.com/Jubi-in" width="140px" /> <br><br> 👑 인주비 <br>(Front-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/unilion">
-            <img src="https://avatars.githubusercontent.com/unilion" width="140px" /> <br><br> 🙂 장준범 <br>(Front-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/jejinmyeong">
-            <img src="https://avatars.githubusercontent.com/jejinmyeong" width="140px" /> <br><br> 😆 제진명 <br>(Front-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/kibum414">
-            <img src="https://avatars.githubusercontent.com/kibum414" width="140px" /> <br><br> 😁 박기범 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/changhyuns">
-            <img src="https://avatars.githubusercontent.com/changhyuns" width="140px" /> <br><br> 🙄 손창현 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="https://github.com/dayaeLee777">
-            <img src="https://avatars.githubusercontent.com/dayaeLee777" width="140px" /> <br><br> 😶 이다예 <br>(Back-End) </a> <br></td>
-    </tr>
-    <tr>
-        <td align="center">UI/UX<br/>React<br/>WebRTC<br/>WebSocket</td>
-        <td align="center">UI/UX<br/>React</td>
-        <td align="center">UI/UX<br/>React</td>
-        <td align="center">REST API<br/>WebRTC<br/>WebSocket</td>
-        <td align="center">REST API<br/>CI/CD<br/>Infra<br/></td>
-        <td align="center">REST API<br/>Database<br/>S3<br/></td>
-    </tr>
-</table>
-
-<br />
 
 <div id="8"></div>
 
