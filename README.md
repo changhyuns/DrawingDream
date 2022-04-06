@@ -188,7 +188,7 @@
 
 <div id="6"></div>
 
-## 🎥 [UCC 보러가기](https://drawingdream-bucket.s3.ap-northeast-2.amazonaws.com/UCC+%EC%B5%9C%EC%A2%85%EB%B3%B8.mp4) 
+## 🎥 [UCC 보러가기](https://youtu.be/Rg4kOlrdI78) 
 
 <br />
 
